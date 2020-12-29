@@ -1,5 +1,8 @@
 # README
 
+The following is basically a much more "to-the-point" version of the tutorial found [here](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/getting-started-with-github-pages).
+If you plan to customize or make extensive changes to this website, I would recommend going through both the GitHub pages tutorial, as well as the Jekyll tutorial listed below in the caveats section.
+
 ## Running the Site Locally
 
 ### Non-Managed dependencies
