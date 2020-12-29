@@ -17,7 +17,7 @@ See the links below for installation tutorials:
 
 1. Clone this repository
 2. Via the terminal (or command prompt, depending on your OS) `cd` into this repository.
-3. Run `bundle install` to install all t he required dependencies listed in the `Gemfile`.
+3. Run `bundle install` to install all the required dependencies listed in the `Gemfile`.
 (This step only needs to be executed once, or when new dependencies are added to the Gemfile)
 4. Run `bundle exec jekyll serve` to start the server locally.
 5. In your browser, navigate to `http://127.0.0.1:4000` to preview the site.
