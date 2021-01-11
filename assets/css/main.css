@@ -8,12 +8,28 @@ nav {
     max-width: 1024px;
     margin-left: auto;
     margin-right: auto;
-    padding: 0.5em 0 0 0;
+    padding: 0.5em 0;
     text-align: right;
 }
 
 nav a {
     padding: 0 0.75em;
+    margin: 0 5px;
+}
+
+a {
+    color: #3366cc;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #330000;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #3366cc;
+    text-decoration: none;
 }
 
 #div-title {
