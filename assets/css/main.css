@@ -93,9 +93,6 @@ footer {
 
 .person {
     padding: 0.5em 1.5em;
-    border-right: 1px solid #AAAAAA;
-    border-bottom: 1px solid #AAAAAA;
-    border-radius: 0.6em;
 }
 
 .person .avatar {
@@ -115,6 +112,23 @@ footer {
 
 .person .blurb {
     text-align: justify;
+}
+
+.schedule {
+    width: 100%;
+}
+
+.schedule tr {
+    padding: 0.5em 0;
+}
+
+.schedule tr th {
+    padding: 0 0.5em;
+    text-align: center;
+}
+
+.schedule tr td {
+    padding: 0 0.5em;
 }
 
 /* The following section is adapted from https://www.w3schools.com/howto/howto_js_topnav_responsive.asp */
