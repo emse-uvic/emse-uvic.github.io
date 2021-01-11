@@ -5,6 +5,10 @@
 layout: default
 ---
 
+<div id="div-title" class="pure-u-1">
+    <h2>{{ site.title }}</h2>
+</div>
+
 Empirical software engineering is a research area concerned with the study of software engineering processes and artifacts, with the goal to understand and improve software engineering tools, processes, culture and software quality.
 This topic is of relevance to researchers, practitioners and the users of software systems.
 This course will prepare students for advanced research in industrial and academic settings by examining how to plan, conduct and report on empirical investigations of software engineering phenomena.
