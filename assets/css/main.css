@@ -78,11 +78,41 @@ a:visited {
     margin: 0 auto 10px auto;
     padding: 0 1.5em 2.5em 1.5em;
     text-align: justify;
-    width: 90%;
+    width: 95%;
+}
+
+.topics-list {
+    list-style-type: none;
+    text-align: left;
+}
+
+.topics-list li {
+    padding: 0.5em 0.25em;
+    min-height: 100%;
+}
+
+.topic-content {
+    border-left: 1px solid #AAAAAA;
+    padding: 0.5em 0.25em;
+    max-width: 75%;
+    min-height: 100%;
+}
+
+.media-video {
+    border: 0px;
+    height: 400px;
+    min-height: 200px;
+    min-width: 200px;
+    width: 100%;
+}
+
+.media-podcast {
+    max-height: 100px;
+    min-width: 100%;
 }
 
 footer {
-    position: absolute;
+    /*position: absolute;*/
     bottom: 0;
     font-size: x-small;
     height: 10px;
@@ -140,6 +170,14 @@ footer {
 
 .even-row {
     background-color: #FFFFFF;
+}
+
+.hidden {
+    display: none;
+}
+
+.visible {
+    display: block;
 }
 
 /* The following section is adapted from https://www.w3schools.com/howto/howto_js_topnav_responsive.asp */
