@@ -8,6 +8,10 @@ layout: default
         content = $(topic_div).html();
         $('#topic-display').html(content);      
     }
+
+    $(document).ready(function() {
+        show_topic('history');
+    });
 </script>
 
 <div class="pure-g" id="syllabus">
@@ -29,8 +33,9 @@ layout: default
     <div class="topic-content pure-u-1 pure-u-md-4-5" id="topic-display">
     </div>
     <div class="hidden" id="content-history">
+        <h2>History of Software Engineering</h2>
         <h3>Slides</h3>
-        <iframe src="{{ "/assets/slides/week01-intro.pdf" | relative_url }}"></iframe>
+        <iframe class="media-pdf" src="{{ "/assets/slides/week01-intro.pdf" | relative_url }}"></iframe>
         <h3>Optional Material</h3>
         <ul>
             <li>Chapter 1 of <a href="https://www.oreilly.com/library/view/software-engineering-at/9781492082781/">Software Engineering at Google</a> By Titus Winters, Tom Manshreck and Hyrum Wright, O'Reilly Media UVic link</li>
@@ -38,6 +43,7 @@ layout: default
         </ul>
     </div>
     <div class="hidden" id="content-empirical">
+        <h2>Empirical Software Engineering: Beliefs and Evidence</h2>
         <div class="media">
             <h3>Media</h3>
             <iframe class="media-video" src="https://www.youtube.com/embed/Orghyn91ZMo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

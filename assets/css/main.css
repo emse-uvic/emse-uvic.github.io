@@ -111,6 +111,11 @@ a:visited {
     min-width: 100%;
 }
 
+.media-pdf {
+    height: 75%;
+    width: 100%;
+}
+
 footer {
     /*position: absolute;*/
     bottom: 0;
