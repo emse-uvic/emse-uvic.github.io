@@ -98,22 +98,15 @@ a:visited {
     min-height: 100%;
 }
 
-.media-video {
-    border: 0px;
-    height: 400px;
-    min-height: 200px;
-    min-width: 200px;
-    width: 100%;
+.media-entry-left {
+    display: inline-block;
+    width: 50%;
 }
 
-.media-podcast {
-    max-height: 100px;
-    min-width: 100%;
-}
-
-.media-pdf {
-    height: 75%;
-    width: 100%;
+.media-entry-right {
+    display: inline-block;
+    float: right;
+    width: 50%;
 }
 
 footer {
@@ -214,5 +207,18 @@ nav .icon {
       float: none;
       display: block;
       text-align: left;
+    }
+}
+
+@media screen and (max-width: 950px) {
+    .media-entry-left {
+        display: block;
+        width: 100%;
+    }
+    
+    .media-entry-right {
+        display: block;
+        float: none;
+        width: 100%;
     }
 }
