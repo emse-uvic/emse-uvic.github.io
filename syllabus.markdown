@@ -281,7 +281,7 @@ layout: default
     </div>
     <!--Review-->
     <div class="hidden" id="content-review">
-        <h2>Empirical Software Engineering: Beliefs and Evidence</h2>
+        <h2>Code Review and Assessment</h2>
         <div class="media">
             <h3>Media</h3>
             <div class="media-entry media-entry-left">
@@ -427,7 +427,7 @@ layout: default
     </div>
     <!--Gaps-->
     <div class="hidden" id="content-gaps">
-        <h2></h2>
+        <h2>Bridging Gaps</h2>
         <div class="media">
             <h3>Media</h3>
             <div class="media-entry media-entry-left">
