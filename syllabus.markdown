@@ -321,109 +321,145 @@ layout: default
     </div>
     <!--Diversity-->
     <div class="hidden" id="content-diversity">
-        <h2>Empirical Software Engineering: Beliefs and Evidence</h2>
-        <div class="media pure-g">
-            <h3 class="pure-u-1-1">Media</h3>
-            <div class="media-entry pure-u-1-2 pure-u-md-1-1">
-                <iframe src="https://www.youtube.com/embed/Orghyn91ZMo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <h2>Diversity and Inclusion in Software Engineering</h2>
+        <div class="media">
+            <h3>Media</h3>
+            <div class="media-entry media-entry-left">
+                <iframe src="https://www.youtube.com/embed/-cDNfAqzY3Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <br />
-                <iframe src="https://anchor.fm/margaret-anne-d-storey/embed/episodes/Past--Present-and-Future-of-Empirical-Software-Engineering-A-QA-with-Greg-Wilson-eklhkc/a-a3f2kf5" frameborder="0" scrolling="no"></iframe>
+                <iframe src="https://anchor.fm/margaret-anne-d-storey/embed/episodes/Lessons-learned-from-an-Autism-Coding-Camp-A-QA-with-Andrew-Begel-and-Paige-Rodeghero-eo5ppn/a-a46sikj" frameborder="0" scrolling="no"></iframe>
             </div>
-            <a class="pure-u-1-1" href="{{ "/assets/slides/week02-empirical.pdf" | relative_url }}">Lecture Slides</a>
+            <div class="media-entry media-entry-right">
+                <iframe src="https://www.youtube.com/embed/Ug9KbyuIHjE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <br />
+                <iframe src="https://anchor.fm/margaret-anne-d-storey/embed/episodes/Diversity-in-Software-Engineering-A-QA-with-Alexander-Serebrenik-em8lqp/a-a3q1mql" frameborder="0" scrolling="no"></iframe>
+            </div>
         </div>
-        <div class="material pure-g">
-            <h3 class="pure-u-1-1">Assigned Material</h3>
-            <ul class="pure-u-1-1">
-                <li><a href="https://www.americanscientist.org/article/empirical-software-engineering">Empirical Software Engineering</a> by Greg Wilson, Jorge Aranda, American Scientist, Nov-Dec 2011.</li>
-                <li><a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.121.3476&rep=rep1&type=pdf">The Princial Elements of the Nature of Science: Dispelling the Myths</a> by William F. McComas, 1998</li>
-                <li><a href="http://chisel.cs.uvic.ca/pubs/storey-ESEM2017.pdf">Design Science Research in Software Engineering</a> by Storey, Enstrom, Host and Runeson, ESEM 2017</li>
-                <li><a href="https://changelog.com/podcast/339">Why Engineers Write Bad Code</a> by Adam Barr (he explores the gap between industry and academia)</li>
+        <div class="material">
+            <h3>Assigned Material</h3>
+            <ul>
+                <li><a href="https://cbsoft2020.imd.ufrn.br/palestrante.php?id=alexander">Gender in Open-Source Software Development</a> by Alexander Serebrenik, CBSoft 2020, Brazil</li>
+                <li><a href="https://peerj.com/articles/cs-111/">Gender differences and bias in open source: pull request acceptance of women versus men</a> by Josh Terrell, Andrew Kofink, Justin Middleton, Clarissa Rainear, Emerson Murphy-Hill, Chris Parnin, Jon Stallings, May 2017, PeerJ.</li>
+                <li><a href="https://github.com/margaretstorey/EmseUvic2020/blob/master/references/BegelAutismCodingCamp.pdf">Autism Coding Camp</a> by Andrew Begel et al., SIGCSE 2020</li>
+                <li><a href="https://www.youtube.com/watch?v=tgSn-Ao0VTk">Gender Inclusivity Software Engineering</a> by Margaret Burnett and Anita Sarma</li>
             </ul>
-            <h3 class="pure-u-1-1">Optional Material</h3>
-            <ul class="pure-u-1-1">
-                <li><a href="https://link.springer.com/book/10.1007/978-3-030-32489-6">Chapter 1, Contemporary Empirical Methods in Software Engineering</a>, Editors: Michael FeldererGuilherme Horta Travassos, Springer 2020</li>
-                <li><a href="http://pages.cs.wisc.edu/~remzi/Naur.pdf">Programming as Theory Building</a> by Peter Naur, 1985.</li>
+            <h3>Optional Material</h3>
+            <ul>
+                <li><a href="http://web.engr.oregonstate.edu/~sarmaa/wp-content/uploads/2020/08/icse20-genderMag-practices.pdf">Engineering Gender-Inclusivity into Software: Ten Teams’ Tales from the Trenches</a> by C. Hilderbrand, C. Perdriau, L. Letaw, J. Emard, Z. Steine-Hanson, M. Burnett, and A. Sarma, , ACM/IEEE 42nd International Conference on Software Engineering (ICSE), May 2020.</li>
+                <li><a href="https://www.youtube.com/watch?v=a7tt18Gh8M0&feature=emb_logo">Is 40 the new 60?</a> by Alexander Serebrenik</li>
+                <li><a href="https://www.youtube.com/watch?v=yP028rbR_t4">Golden Rules of Building Communities</a> by Denae Ford Robinson, OCTO Speaker Series, 2020.</li>
             </ul>
         </div>
     </div>
     <!--Collaboration-->
     <div class="hidden" id="content-collab">
-        <h2>Empirical Software Engineering: Beliefs and Evidence</h2>
-        <div class="media pure-g">
-            <h3 class="pure-u-1-1">Media</h3>
-            <div class="media-entry pure-u-1-2 pure-u-md-1-1">
-                <iframe src="https://www.youtube.com/embed/Orghyn91ZMo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <h2>Collaboration, Communication, and Knowledge Flow</h2>
+        <div class="media">
+            <h3>Media</h3>
+            <div class="media-entry media-entry-left">
+                <iframe src="https://www.youtube.com/embed/vE0Gde0RuKQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <br />
-                <iframe src="https://anchor.fm/margaret-anne-d-storey/embed/episodes/Past--Present-and-Future-of-Empirical-Software-Engineering-A-QA-with-Greg-Wilson-eklhkc/a-a3f2kf5" frameborder="0" scrolling="no"></iframe>
+                <iframe src="https://anchor.fm/margaret-anne-d-storey/embed/episodes/Role-of-identity--social-norms-in-building-sustainable-online-communities-A-QA-with-Anna-Filipova-emlutn/a-a3sq8f1" frameborder="0" scrolling="no"></iframe>
             </div>
-            <a class="pure-u-1-1" href="{{ "/assets/slides/week02-empirical.pdf" | relative_url }}">Lecture Slides</a>
+            <div class="media-entry media-entry-right">
+                <iframe src="https://www.youtube.com/embed/eTfKt64oCK4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <br />
+                <iframe src="https://anchor.fm/margaret-anne-d-storey/embed/episodes/Social-Technical-Coordination-in-Software-Engineering-A-QA-with-Jim-Herbsleb-emp3op/a-a3tectu" frameborder="0" scrolling="no"></iframe>
+            </div>
+            <div class="media-entry media-entry-left">
+                <iframe src="https://www.youtube.com/embed/E9p88Ut0jlI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <br />
+                <iframe src="https://anchor.fm/margaret-anne-d-storey/embed/episodes/How-war-stories-can-reveal-what-really-happens-in-software-engineering--A-QA-with-Carolyn-Seaman-emjt2h/a-a3sdun7" frameborder="0" scrolling="no"></iframe>
+            </div>
+            <div class="media-entry media-entry-right">
+                <iframe src="https://www.youtube.com/embed/beddlJwfkoA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <br />
+                No Podcast Version Available.
+            </div>
         </div>
-        <div class="material pure-g">
-            <h3 class="pure-u-1-1">Assigned Material</h3>
-            <ul class="pure-u-1-1">
-                <li><a href="https://www.americanscientist.org/article/empirical-software-engineering">Empirical Software Engineering</a> by Greg Wilson, Jorge Aranda, American Scientist, Nov-Dec 2011.</li>
-                <li><a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.121.3476&rep=rep1&type=pdf">The Princial Elements of the Nature of Science: Dispelling the Myths</a> by William F. McComas, 1998</li>
-                <li><a href="http://chisel.cs.uvic.ca/pubs/storey-ESEM2017.pdf">Design Science Research in Software Engineering</a> by Storey, Enstrom, Host and Runeson, ESEM 2017</li>
-                <li><a href="https://changelog.com/podcast/339">Why Engineers Write Bad Code</a> by Adam Barr (he explores the gap between industry and academia)</li>
+        <div class="material">
+            <h3>Assigned Material</h3>
+            <ul>
+                <li><a href="https://userpages.umbc.edu/~cseaman/papers/ISTJ07.pdf">Revealing actual documentation usage in software maintenance through war stories</a> by Wayne Lutters and Carolyn Seaman, IST 2007.</li>
+                <li><a href="https://collabtech2020.colaps.ut.ee/keynote/">The role of identity and social norms in building sustainable online communities and successful remote teams</a> by Anna Filippova, GitHub</li>
+                <li><a href="https://youtu.be/v0CSnYvd0C4?t=1769">Socio-Technical Coordination</a> by Jim Herbsleb, ICSE 2014</li>
             </ul>
-            <h3 class="pure-u-1-1">Optional Material</h3>
-            <ul class="pure-u-1-1">
-                <li><a href="https://link.springer.com/book/10.1007/978-3-030-32489-6">Chapter 1, Contemporary Empirical Methods in Software Engineering</a>, Editors: Michael FeldererGuilherme Horta Travassos, Springer 2020</li>
-                <li><a href="http://pages.cs.wisc.edu/~remzi/Naur.pdf">Programming as Theory Building</a> by Peter Naur, 1985.</li>
+            <h3>Optional Material</h3>
+            <ul>
+                <li><a href="https://www.researchgate.net/publication/44279493_The_Social_Identity_Perspective">The Social Identity Perspective: Intergroup Relations, Self-Conception, and Small Groups</a>, by Michael A. Hogg, Dominic Abrams, Sabine Otten, Steve Hinkle, Small Group Research. 2004; 35(3):246-276.</li>
+                <li><a href="https://dl.acm.org/doi/pdf/10.1145/2950290.2994160?casa_token=WgwFs4AVPYcAAAAA:U8GMwVuZsq6KIsN9ExDs4VKkvGRUk2FHG7D_qFpQdnobhHDerYaxu42AcJZrr1CMCoiTUoY3zY_RIw">Building a socio-technical theory of coordination: why and how (outstanding research award)</a> by James Herbsleb, FSE 2016.</li>
+                <li><a href="https://drive.google.com/file/d/1ZcPgU5q71A9_NkyRCUCRsUrppzctCiGY/view">Observation as a Data Collection Technique for Software Engineering Research</a> by Carolyn Seaman, IASESE 2019 Tutorial.</li>
+                <li><a href="https://cs.adelaide.edu.au/~christoph/CBSoftTutorial.pdf">A Tutorial on Qualitative Data Coding when Mining Software Repositories</a> by Christoph Treude.</li>
             </ul>
         </div>
     </div>
     <!--Productivity-->
     <div class="hidden" id="content-productivity">
-        <h2>Empirical Software Engineering: Beliefs and Evidence</h2>
-        <div class="media pure-g">
-            <h3 class="pure-u-1-1">Media</h3>
-            <div class="media-entry pure-u-1-2 pure-u-md-1-1">
-                <iframe src="https://www.youtube.com/embed/Orghyn91ZMo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <h2>Developer and Team Productivity</h2>
+        <div class="media">
+            <h3>Media</h3>
+            <div class="media-entry media-entry-left">
+                <iframe src="https://www.youtube.com/embed/hA4QbkraKn4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <br />
-                <iframe src="https://anchor.fm/margaret-anne-d-storey/embed/episodes/Past--Present-and-Future-of-Empirical-Software-Engineering-A-QA-with-Greg-Wilson-eklhkc/a-a3f2kf5" frameborder="0" scrolling="no"></iframe>
+                <iframe src="https://anchor.fm/margaret-anne-d-storey/embed/episodes/The-Many-Faces-of-Software-Developer-Productivity-A-QA-with-Tom-ZimmermannDr--Tom-Zimmermann-visits-our-course-on-empirical-software-engineering-and-discusses-his-many-years-of-research-on-developer-en0hhh/a-a3v218s" frameborder="0" scrolling="no"></iframe>
             </div>
-            <a class="pure-u-1-1" href="{{ "/assets/slides/week02-empirical.pdf" | relative_url }}">Lecture Slides</a>
+            <div class="media-entry media-entry-right">
+                <iframe src="https://www.youtube.com/embed/CyTgqtw2PhU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <br />
+                <iframe src="https://anchor.fm/margaret-anne-d-storey/embed/episodes/Experiences-of-Software-Developers-Working-from-Home-During-the-Pandemic-A-QA-with-Jenna-Butler-enjfas/a-a433q9t" frameborder="0" scrolling="no"></iframe>
+            </div>
         </div>
-        <div class="material pure-g">
-            <h3 class="pure-u-1-1">Assigned Material</h3>
-            <ul class="pure-u-1-1">
-                <li><a href="https://www.americanscientist.org/article/empirical-software-engineering">Empirical Software Engineering</a> by Greg Wilson, Jorge Aranda, American Scientist, Nov-Dec 2011.</li>
-                <li><a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.121.3476&rep=rep1&type=pdf">The Princial Elements of the Nature of Science: Dispelling the Myths</a> by William F. McComas, 1998</li>
-                <li><a href="http://chisel.cs.uvic.ca/pubs/storey-ESEM2017.pdf">Design Science Research in Software Engineering</a> by Storey, Enstrom, Host and Runeson, ESEM 2017</li>
-                <li><a href="https://changelog.com/podcast/339">Why Engineers Write Bad Code</a> by Adam Barr (he explores the gap between industry and academia)</li>
+        <div class="material">
+            <h3>Assigned Material</h3>
+            <ul>
+                <li><a href="https://blubrry.com/microsoftresearch/53765597/077r-the-productive-software-engineer-with-dr-tom-zimmermann/">The productive software engineer</a> with Dr. Tom Zimmermann</li>
+                <li><a href="https://www.youtube.com/watch?v=OFKv8vVQeZM">Improving Engineering Productivity at Scale</a> by Ciera Jaspan, SPLASH 2019 (Video) OR <a href="https://softwareengineeringdaily.com/2019/05/22/monolithic-repositories-with-ciera-jaspan/">Monolithic Repositories</a> with Ciera Jaspan</li>
+                <li><a href="https://www.microsoft.com/en-us/research/publication/challenges-and-gratitude-a-diary-study-of-software-engineers-working-from-home-during-covid-19-pandemic/">Challenges and Gratitude: A Diary Study of Software Engineers Working From Home During Covid-19 Pandemic</a> by Jenna Butler, Microsoft </li>
             </ul>
-            <h3 class="pure-u-1-1">Optional Material</h3>
-            <ul class="pure-u-1-1">
-                <li><a href="https://link.springer.com/book/10.1007/978-3-030-32489-6">Chapter 1, Contemporary Empirical Methods in Software Engineering</a>, Editors: Michael FeldererGuilherme Horta Travassos, Springer 2020</li>
-                <li><a href="http://pages.cs.wisc.edu/~remzi/Naur.pdf">Programming as Theory Building</a> by Peter Naur, 1985.</li>
+            <h3>Optional Material</h3>
+            <ul>
+                <li><a href="https://arxiv.org/abs/2008.11147">A Tale of Two Cities: Software Developers Working from Home During the COVID-19 Pandemic</a> by Denae Ford, Margaret-Anne Storey, Thomas Zimmermann, Christian Bird, Sonia Jaffe, Chandra Maddila, Jenna L. Butler, Brian Houck, Nachiappan Nagappan</li>
+                <li><a href="https://conf.researchr.org/details/icse-2020/icse-2020-Journal-First/49/Towards-a-theory-of-software-developer-job-satisfaction-and-perceived-productivity">Towards a theory of software developer job satisfaction and perceived productivity</a> by Margaret-Anne Storey, Thomas Zimmermann, Christian Bird, Jacek Czerwonka, Brendan Murphy, Eirini Kalliamvakou, TSE journal paper presented at ICSE 2020.</li>
+                <li><a href="https://research.google/pubs/pub47853/">What Predicts Software Developers’ Productivity?</a> by Emerson Murphy-Hill Ciera Jaspan Caitlin Sadowski David C. Shepherd Michael Phillips Collin Winter Andrea Knight Dolan Edward K. Smith Matthew A. Jorde, Transactions on Software Engineering (2019).</li>
+                <li><a href="https://research.google/pubs/pub49446/">Enabling the Study of Software Development Behavior with Cross-Tool Logs</a> by Ciera Jaspan Matthew Jorde Carolyn Denomme Egelman Collin Green Ben Holtz Edward K. Smith Maggie Morrow Hodges Andrea Marie Knight Dolan Elizabeth Kammer Jillian Dicker Caitlin Harrison Sadowski James Lin Lan Cheng Mark Canning Emerson Murphy-Hill, IEEE Software, vol. Special Issue on Behavioral Science of Software Engineering (2020).</li>
             </ul>
         </div>
     </div>
     <!--Gaps-->
     <div class="hidden" id="content-gaps">
-        <h2>Empirical Software Engineering: Beliefs and Evidence</h2>
-        <div class="media pure-g">
-            <h3 class="pure-u-1-1">Media</h3>
-            <div class="media-entry pure-u-1-2 pure-u-md-1-1">
-                <iframe src="https://www.youtube.com/embed/Orghyn91ZMo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <h2></h2>
+        <div class="media">
+            <h3>Media</h3>
+            <div class="media-entry media-entry-left">
+                <iframe src="https://www.youtube.com/embed/jMeNUbtgWE4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <br />
-                <iframe src="https://anchor.fm/margaret-anne-d-storey/embed/episodes/Past--Present-and-Future-of-Empirical-Software-Engineering-A-QA-with-Greg-Wilson-eklhkc/a-a3f2kf5" frameborder="0" scrolling="no"></iframe>
+                <iframe src="https://anchor.fm/margaret-anne-d-storey/embed/episodes/Promoting-Human-Flourishing-Through-Ethical-Software-Development--A-Talk-and-QA-with-Michael-Hilton-enkkav/a-a43bjle" frameborder="0" scrolling="no"></iframe>
+                <br />
+                <a href="https://drive.google.com/file/d/1pRa1mZm3PgHbhMJg0LgG8FQ6gHqSsLLm/view">Promoting Human Flourishing through Ethical Software Developmen</a>t by Michael Hilton
             </div>
-            <a class="pure-u-1-1" href="{{ "/assets/slides/week02-empirical.pdf" | relative_url }}">Lecture Slides</a>
+            <div class="media-entry media-entry-right">
+                <iframe src="https://www.youtube.com/embed/mP3nb9O_yyU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <br />
+                <iframe src="https://anchor.fm/margaret-anne-d-storey/embed/episodes/The-fairness-of-peer-review-and-insights-from-studies-of-open-source-A-QA-with-Daniel-German-enl9mt/a-a43ghp9" frameborder="0" scrolling="no"></iframe>
+            </div>
+            <div class="media-entry media-entry-left">
+                No Video Available.
+                <br />
+                No Podcast Available.
+                <br />
+                <a href="{{ "/assets/slides/workshop06_czerwonka.pdf" | relative_url }}">Bridging Gaps between Research and Industry in Software Engineering</a> by Jacek Czerwonka, Microsoft.
+            </div>
         </div>
-        <div class="material pure-g">
-            <h3 class="pure-u-1-1">Assigned Material</h3>
-            <ul class="pure-u-1-1">
-                <li><a href="https://www.americanscientist.org/article/empirical-software-engineering">Empirical Software Engineering</a> by Greg Wilson, Jorge Aranda, American Scientist, Nov-Dec 2011.</li>
-                <li><a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.121.3476&rep=rep1&type=pdf">The Princial Elements of the Nature of Science: Dispelling the Myths</a> by William F. McComas, 1998</li>
-                <li><a href="http://chisel.cs.uvic.ca/pubs/storey-ESEM2017.pdf">Design Science Research in Software Engineering</a> by Storey, Enstrom, Host and Runeson, ESEM 2017</li>
-                <li><a href="https://changelog.com/podcast/339">Why Engineers Write Bad Code</a> by Adam Barr (he explores the gap between industry and academia)</li>
+        <div class="material">
+            <h3>Assigned Material</h3>
+            <ul>
+                <li><a href="https://www.researchgate.net/publication/327561403_Was_My_Contribution_Fairly_Reviewed_A_Framework_to_Study_the_Perception_of_Fairness_in_Modern_Code_Reviews">"Was My Contribution Fairly Reviewed?" A Framework to Study the Perception of Fairness in Modern Code Reviews</a> by Daniel German et al. ICSE 2018 OR <a href="https://www2.slideshare.net/dmgerman/fairness-and-code-reviews">Was my contribution reviewed fairly?</a> by Daniel German</li>
+                <li><a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2015/05/PID3556473.pdf">Code Reviews Do Not Find Bugs: How the Current Code Review Best Practice Slows Us Down</a> by Jacek Czerwonka, Michaela Greiler, and Jack Tilford, ICSE 2015</li>
             </ul>
-            <h3 class="pure-u-1-1">Optional Material</h3>
-            <ul class="pure-u-1-1">
-                <li><a href="https://link.springer.com/book/10.1007/978-3-030-32489-6">Chapter 1, Contemporary Empirical Methods in Software Engineering</a>, Editors: Michael FeldererGuilherme Horta Travassos, Springer 2020</li>
-                <li><a href="http://pages.cs.wisc.edu/~remzi/Naur.pdf">Programming as Theory Building</a> by Peter Naur, 1985.</li>
+            <h3>Optional Material</h3>
+            <ul>
+                <li><a href="https://speakerdeck.com/michaelhilton/promoting-human-flourishing-through-ethical-software-development">Promoting Human Flourishing Through Ethical Software Development</a> by Michael Hilton</li>
+                <li><a href="https://dl.acm.org/doi/10.1145/2597073.2597074">The promises and perils of mining GitHub</a> by Eirini Kalliamvakou, Georgios Gousios, Kelly Blincoe, Leif Singer Daniel M Germán, Daniela E Damian, MSR 2014</li>
             </ul>
         </div>
     </div>
