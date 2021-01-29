@@ -37,7 +37,7 @@ layout: default
     <div class="hidden" id="content-history">
         <h2>History of Software Engineering</h2>
         <h3>Media</h3>
-        <a href="{{ "/assets/slides/week01-intro.pdf" | relative_url }}">Lecture Slides</a>
+        <a href="{{ "/assets/slides/week01-intro.pdf" | relative_url }}" target="_blank">Lecture Slides</a>
         <h3>Optional Material</h3>
         <ul>
             <li>Chapter 1 of <a href="https://www.oreilly.com/library/view/software-engineering-at/9781492082781/">Software Engineering at Google</a> By Titus Winters, Tom Manshreck and Hyrum Wright, O'Reilly Media UVic link</li>
@@ -55,7 +55,7 @@ layout: default
                 <iframe src="https://anchor.fm/margaret-anne-d-storey/embed/episodes/Past--Present-and-Future-of-Empirical-Software-Engineering-A-QA-with-Greg-Wilson-eklhkc/a-a3f2kf5" frameborder="0" scrolling="no"></iframe>
             </div>
             <br />
-            <a href="{{ "/assets/slides/week02-empirical.pdf" | relative_url }}">Lecture Slides</a>
+            <a href="{{ "/assets/slides/week02-empirical.pdf" | relative_url }}" target="_blank">Lecture Slides</a>
         </div>
         <div class="material">
             <h3>Assigned Material</h3>
@@ -77,7 +77,7 @@ layout: default
         <h2>Design Science</h2>
         <div class="media">
             <h3>Media</h3>
-            <a href="{{ "/assets/slides/week02-design.pdf" | relative_url }}">Lecture Slides</a>
+            <a href="{{ "/assets/slides/week02-design.pdf" | relative_url }}" target="_blank">Lecture Slides</a>
         </div>
         <div class="material">
             <h3>Assigned Material</h3>
@@ -104,9 +104,9 @@ layout: default
                 <iframe src="https://anchor.fm/margaret-anne-d-storey/embed/episodes/Grounded-Theory-in-Software-Engineering-A-Talk-and-QA-with-Rashina-Hoda-el5kjj/a-a3ifh82" frameborder="0" scrolling="no"></iframe>
             </div>
             <br />
-            <a href="{{ "/assets/slides/week03-methods.pdf" | relative_url }}">Lecture Slides</a>
+            <a href="{{ "/assets/slides/week03-methods.pdf" | relative_url }}" target="_blank">Lecture Slides</a>
             <br />
-            <a href="{{ "/assets/slides/week03-guest.pdf" | relative_url }}">Guest Speaker Slides</a>
+            <a href="{{ "/assets/slides/week03-guest.pdf" | relative_url }}" target="_blank">Guest Speaker Slides</a>
         </div>
         <div class="material">
             <h3>Assigned Material</h3>
@@ -189,9 +189,9 @@ layout: default
                 <iframe src="https://anchor.fm/margaret-anne-d-storey/embed/episodes/Theories--Theoretical-Frameworks-in-Software-Engineering-A-Talk-and-QA-with-Elise-Paradis-el5kri/a-a3ifijb" frameborder="0" scrolling="no"></iframe>
             </div>
             <br />
-            <a href="{{ "/assets/slides/week04-theory.pdf" | relative_url }}">Lecture Slides</a>
+            <a href="{{ "/assets/slides/week04-theory.pdf" | relative_url }}" target="_blank">Lecture Slides</a>
             <br />
-            <a href="{{ "/assets/slides/week04-guest.pdf" | relative_url }}">Guest Speaker Slides</a>
+            <a href="{{ "/assets/slides/week04-guest.pdf" | relative_url }}" target="_blank">Guest Speaker Slides</a>
         </div>
         <div class="material">
             <h3>Assigned Material</h3>
@@ -210,9 +210,9 @@ layout: default
         <h2>Literature Reviews for Software Engineering Research</h2>
         <div class="media">
             <h3>Media</h3>
-            <a href="{{ "/assets/slides/week05-litrev.pdf" | relative_url }}">Lecture Slides</a>
+            <a href="{{ "/assets/slides/week05-litrev.pdf" | relative_url }}" target="_blank">Lecture Slides</a>
             <br />
-            <a href="{{ "/assets/slides/week05-wwh.pdf" | relative_url }}">The Who, What, How Framework and Design Science Revisited</a>
+            <a href="{{ "/assets/slides/week05-wwh.pdf" | relative_url }}" target="_blank">The Who, What, How Framework and Design Science Revisited</a>
         </div>
         <div class="material">
             <h3>Assigned Material</h3>
@@ -447,7 +447,7 @@ layout: default
                 <br />
                 No Podcast Available.
                 <br />
-                <a href="{{ "/assets/slides/workshop06_czerwonka.pdf" | relative_url }}">Bridging Gaps between Research and Industry in Software Engineering</a> by Jacek Czerwonka, Microsoft.
+                <a href="{{ "/assets/slides/workshop06_czerwonka.pdf" | relative_url }}" target="_blank">Bridging Gaps between Research and Industry in Software Engineering</a> by Jacek Czerwonka, Microsoft.
             </div>
         </div>
         <div class="material">
